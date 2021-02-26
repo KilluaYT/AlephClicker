@@ -1,0 +1,105 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AlephClicker.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="aleph" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="upgrade" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="multiplier" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ApplicationFirstStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="fullscreen" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="click" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="exp" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="exp_max" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="level" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="aleph_ascii" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph Aleph </Value>
+    </Setting>
+    <Setting Name="vis_min" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="vis_top" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="AutoClick" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MilitaryBase" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Anti_Si_Propaganda" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="clickM_cost" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">250</Value>
+    </Setting>
+    <Setting Name="ac_cost" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="AMB_cost" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="ASP_cost" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">12000</Value>
+    </Setting>
+    <Setting Name="Achivement_OurFirstArmy" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Achivement_ThisIsJustTheBeginning" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Achivement_WelcomeToOsu" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Achivement_AllAchivements" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="img" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="changeImage" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="barColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Blue</Value>
+    </Setting>
+    <Setting Name="RGB" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="changeColor" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="mp_Volume" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="Achivement" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Achivment_TheGod" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Achivement_Max" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="ShowVIS" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

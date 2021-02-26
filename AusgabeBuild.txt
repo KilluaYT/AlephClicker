@@ -1,0 +1,11 @@
+﻿Neuerstellen gestartet...
+1>------ Neues Erstellen gestartet: Projekt: AlephClicker, Konfiguration: Debug Any CPU ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2744,5): warning MSB3305: Verarbeite COM-Verweis "WMPLib" aus Pfad "C:\Windows\system32\wmp.dll". Der Typbibliothekimporter hat einen Getter "sessionPlaylistCount" für eine Eigenschaft bei Typ "WMPLib.IWMPNowPlayingHelperDispatch" ohne einen gültigen Rückgabetyp gefunden. Der Importer wird versuchen, diese Eigenschaft als eine Methode zu importieren.
+1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2744,5): warning MSB3305: Verarbeite COM-Verweis "WMPLib" aus Pfad "C:\Windows\system32\wmp.dll". Mindestens ein Argument für "IWMPGraphEventHandler.NotifyAcquireCredentials" kann nicht vom Laufzeitmarshaller gemarshallt werden. Diese Argumente werden deshalb als Zeiger übergeben und erfordern zum Ändern möglicherweise unsicheren Code.
+1>C:\Users\Itona\source\repos\AlephClicker\AlephClicker\Form1.cs(177,30,177,32): warning CS0168: Die Variable "ex" ist deklariert, wird aber nie verwendet.
+1>C:\Users\Itona\source\repos\AlephClicker\AlephClicker\Form1.cs(475,30,475,32): warning CS0168: Die Variable "ex" ist deklariert, wird aber nie verwendet.
+1>C:\Users\Itona\source\repos\AlephClicker\AlephClicker\Form1.cs(21,46,21,51): warning CS0414: Dem Feld "Form1.scale" wurde ein Wert zugewiesen, der aber nie verwendet wird.
+1>C:\Users\Itona\source\repos\AlephClicker\AlephClicker\Form1.cs(21,57,21,67): warning CS0414: Dem Feld "Form1.clickScale" wurde ein Wert zugewiesen, der aber nie verwendet wird.
+1>C:\Users\Itona\source\repos\AlephClicker\AlephClicker\Form1.cs(22,28,22,32): warning CS0414: Dem Feld "Form1.tick" wurde ein Wert zugewiesen, der aber nie verwendet wird.
+1>  AlephClicker -> C:\Users\Itona\source\repos\AlephClicker\AlephClicker\bin\Debug\AlephClicker.exe
+========== Alles neu erstellen: 1 erfolgreich, 0 fehlerhaft, 0 übersprungen ==========
